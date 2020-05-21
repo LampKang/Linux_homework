@@ -1,9 +1,7 @@
 #include <stdio.h>
 int main(){
 	
-	printf("hello world!\n");
-	printf("i hate this world!\n");
-	printf("bye world!\n");
-	printf("I hate corona!");
-	return 1;
+	printf("Hello world!\n");
+	printf("Bye workd!\n");
+	return 0;
 }
