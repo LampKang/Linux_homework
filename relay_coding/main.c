@@ -79,5 +79,9 @@ int main() {
 	printf("리중딱 리중딱 씐나는노래~");
 	printf("나도한 번 불러본다~~");
 
+	printf("\n");
+	printf("두둥탁\n");
+	printf("두둥두둥탁\n");
+
 	return 1;
 }
