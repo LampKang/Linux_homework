@@ -115,5 +115,8 @@ int main() {
 
 
 	printf("So many homeworks make me tired\n");
+
+	
+	printf("I love Linux. --> ??");
 	return 0;
 }
