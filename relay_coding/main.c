@@ -13,6 +13,7 @@ int main() {
 	printf("bye world!\n");
 
 	printf("what???\n");
+	printf("Kill me");
 
 	printf("My name is zgr!\n");
 
