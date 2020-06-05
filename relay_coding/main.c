@@ -119,6 +119,7 @@ int main() {
 	
 	printf("I love Linux. --> ??");
 
+	printf("Happy Linux\n");
     printf("민들레 - 볼빨간 사춘기\n\n");
     printf("그대는 노란 꽃의 민들레다\n");
     printf("내 맘에 머물다가 사라지는\n");
