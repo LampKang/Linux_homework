@@ -118,5 +118,7 @@ int main() {
 
 	
 	printf("I love Linux. --> ??");
+
+	printf("Happy Linux\n");
 	return 0;
 }
